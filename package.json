@@ -8,12 +8,19 @@
   "name": "nodemailerjavascript",
   "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catafest-work/NodemailerJavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/catafest-work/NodemailerJavaScript/issues"
+  },
+  "homepage": "https://github.com/catafest-work/NodemailerJavaScript#readme",
   "description": ""
 }
