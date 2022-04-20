@@ -3,7 +3,7 @@
 ## need to set server mail and test 
 
 
-
+```javascript
   // create reusable transporter object using the default SMTP transport
   let transporter = nodemailer.createTransport({
     host: 'mail.mailllll.com',
@@ -26,5 +26,5 @@
       text: 'Hello world?', // plain text body
       html: output // html body
   };
-
+```
 
